@@ -1,20 +1,34 @@
-File handling exercises:
+# Practice 6
 
-Create a text file and write sample data
-Read and print file contents
-Append new lines and verify content
-Copy and back up files using shutil
-Delete files safely
-Directory exercises:
+This folder contains materials for Practice 6 in Python.
 
-Create nested directories
-List files and folders
-Find files by extension
-Move/copy files between directories
-Built-in functions practice:
+## 📂 Structure
 
-Use map() and filter() on lists
-Aggregate with reduce() (from functools)
-Use enumerate() and zip() for paired iteration
-Demonstrate type checking and conversions
+### 🔹 builtin_functions
+Working with Python built-in functions:
+- map()
+- filter()
+- reduce()
+- enumerate()
+- sorted()
 
+### 🔹 directory_management
+Working with directories and file system:
+- Creating folders
+- Deleting folders
+- Working with paths
+
+### 🔹 file_handling
+Working with files:
+- Reading files
+- Writing to files
+- File modes (r, w, a)
+
+## 🎯 Purpose
+The goal of this practice is to improve understanding of core Python concepts:
+- Built-in functions
+- File system operations
+- Practical programming skills
+
+## 👨‍💻 Author
+Bekzat Seidakhmet
