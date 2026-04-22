@@ -1,5 +1,0 @@
-host = "localhost"
-database = "postgres"
-user = "postgres"
-password = "Bekz07@@"
-port = "5432"
