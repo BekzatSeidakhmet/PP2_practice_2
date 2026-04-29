@@ -1,5 +1,5 @@
 DB_CONFIG = {
-    "dbname": "snake",
+    "dbname": "phonebook_db",
     "user": "postgres",
     "password": "Bekz07@@",
     "host": "localhost",
